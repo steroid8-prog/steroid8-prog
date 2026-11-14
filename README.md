@@ -1,46 +1,33 @@
 <div align="center">
 
-
 # ▶ PlayLabs
-
 
 ### Полезные приложения. Свои решения.
 
-
 VPN · Криптовалютные инструменты · Android TV
-
 
 **[VPN для телефона](https://github.com/steroid8-prog/PlayVPN) · [VPN для телевизора](https://github.com/steroid8-prog/PlayVPN-TV)**
 
-
 </div>
-
 
 ---
 
-
 ## Привет! Мы — PlayLabs 👋
-
 
 Создаём приложения для повседневных задач: подключения к VPN, наблюдения за криптовалютным рынком и удобного использования телевизора. Разные направления объединяет одна идея — понятные инструменты, которыми удобно пользоваться каждый день.
 
-
 Развиваем проекты постепенно, проверяем идеи на практике и дорабатываем приложения с учётом обратной связи.
-
 
 ## Наши проекты
 
-
 | Проект | Для чего | Версия и скачивание |
 | :--- | :--- | :--- |
-| **[🔐 PlayVPN](https://github.com/steroid8-prog/PlayVPN)** | VPN-клиент для Android: подписки, выбор серверов, пинг и обновления. | **[1.0.19 · Скачать APK](https://github.com/steroid8-prog/PlayVPN/releases/latest)** |
+| **[🔐 PlayVPN](https://github.com/steroid8-prog/PlayVPN)** | VPN-клиент для Android: подписки, выбор серверов, пинг и обновления. | **[1.0.20 · Скачать APK](https://github.com/steroid8-prog/PlayVPN/releases/latest)** |
 | **[📺 PlayVPN TV](https://github.com/steroid8-prog/PlayVPN-TV)** | VPN для Android TV / Google TV: управление пультом, ARM32 и ARM64, QR-сопряжение с телефоном. | **[1.0.15 · Скачать APK](https://github.com/steroid8-prog/PlayVPN-TV/releases/latest)** |
 | **📊 Криптовалютный скринер** | Обзор рынка и поиск монет по выбранным параметрам. | Страница проекта готовится |
 | **🏠 Лаунчер для Android TV** | Собственный главный экран телевизора с доступом к приложениям и управлением пультом. | Страница проекта готовится |
 
-
 Для подключения к VPN нужна собственная совместимая подписка или конфигурация. Инструкции по установке и требования к устройствам находятся на страницах приложений.
-
 
 ## VPN-подписка и бесплатный пробный период
 
@@ -48,35 +35,24 @@ VPN · Криптовалютные инструменты · Android TV
 
 ## Скачивания и обновления
 
-
-Готовые установочные файлы публикуем в **Releases** каждого проекта. Выбирайте файл **.apk** в разделе **Assets**; архивы исходного кода предназначены для разработчиков. В каждом выпуске — описание изменений и контрольная сумма APK.
-
+Готовые установочные файлы публикуем в [Releases](https://github.com/steroid8-prog/PlayVPN/releases/latest) каждого проекта. Выбирайте установочный файл APK в разделе **Assets**; архивы исходного кода предназначены для разработчиков. В каждом выпуске — описание изменений и контрольная сумма APK.
 
 ## Пробуйте и помогайте улучшать 💬
 
-
 Нашли ошибку или придумали полезную функцию? Напишите в Issues нужного проекта:
 
-
-- **[PlayVPN для телефона](https://github.com/steroid8-prog/PlayVPN/issues)**
-- **[PlayVPN TV](https://github.com/steroid8-prog/PlayVPN-TV/issues)**
-- **[Общие идеи для PlayLabs](https://github.com/steroid8-prog/steroid8-prog/issues)**
-
+- [PlayVPN для телефона](https://github.com/steroid8-prog/PlayVPN/issues)
+- [PlayVPN TV](https://github.com/steroid8-prog/PlayVPN-TV/issues)
+- [Общие идеи для PlayLabs](https://github.com/steroid8-prog/steroid8-prog/issues)
 
 Укажите название и версию приложения, устройство и шаги, после которых возникла проблема. Перед публикацией удалите из скриншотов и журналов ссылки подписок, токены, ключи и другие личные данные.
 
-
 ---
-
 
 <div align="center">
 
+PlayLabs — от идеи к полезному приложению.
 
-**PlayLabs — от идеи к полезному приложению.**
-
-
-<sub>Independent apps & tools · VPN · Crypto · Android TV</sub>
-
+Independent apps & tools · VPN · Crypto · Android TV
 
 </div>
-
